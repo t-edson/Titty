@@ -1,7 +1,7 @@
 # Titty
 Ejemplo de Emulador de terminal en Linux, con Free Pascal
 
-Este código es el que se presenta en el artículo: http://blog.pucp.edu.pe/blog/tito/2016/12/04/el-inicio-de-un-terminal-con-linux-y-free-pascal/
+Este código es el que se presenta en el artículo: http://blogdetito.com/2016/12/04/el-inicio-de-un-terminal-con-linux-y-free-pascal/
 
 El trabajo de este programa está en crear un proceso con el programa que se pasa como parámetro, y luego enchufarlo a un PTY, para poder interactuar con él, mediante el lado Master.
 
